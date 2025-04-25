@@ -10,9 +10,9 @@ This project scrapes a list of countries from the World Bank website and exposes
 ### 1. Clone or download this repository to the local machine.
 
 ### 2. Install Dependencies
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 ### 3. Scrape Country Data
 '''
