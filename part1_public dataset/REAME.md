@@ -65,7 +65,7 @@ This project demonstrates how structured EDA and thoughtful feature engineering 
    - wordcloud
 3. Open the notebook file in Jupiter and run all cells.
 4. Use the dataset provided in the repository. If you choose to download the dataset from the link mentioned in the Dataset section, save it in your working directory and rename it to spotify_dataset.
-5. Providing a pdf version of the notebook for a quick preview.
+
 
 ---
 
