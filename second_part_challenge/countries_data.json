@@ -1,0 +1,4175 @@
+[
+  {
+    "name": "Afghanistan",
+    "url": "https://data.worldbank.org/country/afghanistan?view=chart",
+    "code": "AFG",
+    "Population": {
+      "value": 41454761,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.71088679128353,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 66.035,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 17.7,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Albania",
+    "url": "https://data.worldbank.org/country/albania?view=chart",
+    "code": "ALB",
+    "Population": {
+      "value": 2745972,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 3.93662525742167,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 79.602,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 83.1,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Algeria",
+    "url": "https://data.worldbank.org/country/algeria?view=chart",
+    "code": "DZA",
+    "Population": {
+      "value": 46164219,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 4.10000000000004,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 76.261,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 76.9,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "American Samoa",
+    "url": "https://data.worldbank.org/country/american-samoa?view=chart",
+    "code": "ASM",
+    "Population": {
+      "value": 47521,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 1.73501577287065,
+      "year": "2022"
+    },
+    "Life Expectancy": {
+      "value": 72.852,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 0,
+      "year": "1990"
+    }
+  },
+  {
+    "name": "Andorra",
+    "url": "https://data.worldbank.org/country/andorra?view=chart",
+    "code": "AND",
+    "Population": {
+      "value": 80856,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.58355480961319,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 84.041,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 95.4,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Angola",
+    "url": "https://data.worldbank.org/country/angola?view=chart",
+    "code": "AGO",
+    "Population": {
+      "value": 36749906,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 1.00128936028298,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 64.617,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 44.8,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "url": "https://data.worldbank.org/country/antigua-and-barbuda?view=chart",
+    "code": "ATG",
+    "Population": {
+      "value": 93316,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 3.86201218730389,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 77.598,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 77.6,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Argentina",
+    "url": "https://data.worldbank.org/country/argentina?view=chart",
+    "code": "ARG",
+    "Population": {
+      "value": 45538401,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -1.61100162090189,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 77.395,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 89.2,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Armenia",
+    "url": "https://data.worldbank.org/country/armenia?view=chart",
+    "code": "ARM",
+    "Population": {
+      "value": 2990900,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 8.29999999959539,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 77.4658536585366,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 80,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Aruba",
+    "url": "https://data.worldbank.org/country/aruba?view=chart",
+    "code": "ABW",
+    "Population": {
+      "value": 107359,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 4.26371941452948,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 76.353,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 97.2,
+      "year": "2017"
+    }
+  },
+  {
+    "name": "Australia",
+    "url": "https://data.worldbank.org/country/australia?view=chart",
+    "code": "AUS",
+    "Population": {
+      "value": 26658948,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 3.44199220009025,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 83.0512195121951,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 97.1,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Austria",
+    "url": "https://data.worldbank.org/country/austria?view=chart",
+    "code": "AUT",
+    "Population": {
+      "value": 9131761,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -0.954962366849259,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 81.5414634146342,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 94.9,
+      "year": "2024"
+    }
+  },
+  {
+    "name": "Azerbaijan",
+    "url": "https://data.worldbank.org/country/azerbaijan?view=chart",
+    "code": "AZE",
+    "Population": {
+      "value": 10153958,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 1.12397432709641,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 74.429,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 89,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Bahamas, The",
+    "url": "https://data.worldbank.org/country/bahamas-the?view=chart",
+    "code": "BHS",
+    "Population": {
+      "value": 399440,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.63905598075102,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 74.552,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 94.8,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Bahrain",
+    "url": "https://data.worldbank.org/country/bahrain?view=chart",
+    "code": "BHR",
+    "Population": {
+      "value": 1577059,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.9807927665851,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 81.284,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 100,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Bangladesh",
+    "url": "https://data.worldbank.org/country/bangladesh?view=chart",
+    "code": "BGD",
+    "Population": {
+      "value": 171466990,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 5.77511237007889,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 74.672,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 44.5,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Barbados",
+    "url": "https://data.worldbank.org/country/barbados?view=chart",
+    "code": "BRB",
+    "Population": {
+      "value": 282336,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 4.09382010970572,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 76.178,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 80,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Belarus",
+    "url": "https://data.worldbank.org/country/belarus?view=chart",
+    "code": "BLR",
+    "Population": {
+      "value": 9178298,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 3.88624214456901,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 74.1837804878049,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 91.5,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Belgium",
+    "url": "https://data.worldbank.org/country/belgium?view=chart",
+    "code": "BEL",
+    "Population": {
+      "value": 11787423,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 1.25170063203595,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 82.3975609756098,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 94.6,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Belize",
+    "url": "https://data.worldbank.org/country/belize?view=chart",
+    "code": "BLZ",
+    "Population": {
+      "value": 411106,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 1.14901682065862,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 73.566,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 72.4,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Benin",
+    "url": "https://data.worldbank.org/country/benin?view=chart",
+    "code": "BEN",
+    "Population": {
+      "value": 14111034,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 6.35282160914288,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 60.774,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 32.2,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Bermuda",
+    "url": "https://data.worldbank.org/country/bermuda?view=chart",
+    "code": "BMU",
+    "Population": {
+      "value": 64698,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -0.0948235929642749,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 82.309,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 98.4,
+      "year": "2017"
+    }
+  },
+  {
+    "name": "Bhutan",
+    "url": "https://data.worldbank.org/country/bhutan?view=chart",
+    "code": "BTN",
+    "Population": {
+      "value": 786385,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 5.21386781145085,
+      "year": "2022"
+    },
+    "Life Expectancy": {
+      "value": 72.975,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 88.4,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Bolivia",
+    "url": "https://data.worldbank.org/country/bolivia?view=chart",
+    "code": "BOL",
+    "Population": {
+      "value": 12244159,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 3.08196524087036,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 68.581,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 70.2,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "url": "https://data.worldbank.org/country/bosnia-and-herzegovina?view=chart",
+    "code": "BIH",
+    "Population": {
+      "value": 3185073,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.21112447211205,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 77.85,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 83.4,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Botswana",
+    "url": "https://data.worldbank.org/country/botswana?view=chart",
+    "code": "BWA",
+    "Population": {
+      "value": 2480244,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.73379817032757,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 69.163,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 81.4,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Brazil",
+    "url": "https://data.worldbank.org/country/brazil?view=chart",
+    "code": "BRA",
+    "Population": {
+      "value": 211140729,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.90848048667777,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 75.848,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 84.2,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "British Virgin Islands",
+    "url": "https://data.worldbank.org/country/british-virgin-islands?view=chart",
+    "code": "VGB",
+    "Population": {
+      "value": 38985,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 77.276,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 77.7,
+      "year": "2017"
+    }
+  },
+  {
+    "name": "Brunei Darussalam",
+    "url": "https://data.worldbank.org/country/brunei-darussalam?view=chart",
+    "code": "BRN",
+    "Population": {
+      "value": 458949,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 1.40706832327938,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 75.327,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 99,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Bulgaria",
+    "url": "https://data.worldbank.org/country/bulgaria?view=chart",
+    "code": "BGR",
+    "Population": {
+      "value": 6446596,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 1.88681483907177,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 75.7073170731707,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 80.4,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Burkina Faso",
+    "url": "https://data.worldbank.org/country/burkina-faso?view=chart",
+    "code": "BFA",
+    "Population": {
+      "value": 23025776,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.96018147384929,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 61.092,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 17,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Burundi",
+    "url": "https://data.worldbank.org/country/burundi?view=chart",
+    "code": "BDI",
+    "Population": {
+      "value": 13689450,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.70000059705133,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 63.651,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 11.1,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Cabo Verde",
+    "url": "https://data.worldbank.org/country/cabo-verde?view=chart",
+    "code": "CPV",
+    "Population": {
+      "value": 522331,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 5.47543591649173,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 76.059,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 73.5,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Cambodia",
+    "url": "https://data.worldbank.org/country/cambodia?view=chart",
+    "code": "KHM",
+    "Population": {
+      "value": 17423880,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 4.96006658918908,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 70.668,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 60.7,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Cameroon",
+    "url": "https://data.worldbank.org/country/cameroon?view=chart",
+    "code": "CMR",
+    "Population": {
+      "value": 28372687,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 3.24834497823876,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 63.7,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 41.9,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Canada",
+    "url": "https://data.worldbank.org/country/canada?view=chart",
+    "code": "CAN",
+    "Population": {
+      "value": 40097761,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 1.24892730403391,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 81.6465853658537,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 94,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Cayman Islands",
+    "url": "https://data.worldbank.org/country/cayman-islands?view=chart",
+    "code": "CYM",
+    "Population": {
+      "value": 73038,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 4.35967595700366,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 80.358,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 81.1,
+      "year": "2017"
+    }
+  },
+  {
+    "name": "Central African Republic",
+    "url": "https://data.worldbank.org/country/central-african-republic?view=chart",
+    "code": "CAF",
+    "Population": {
+      "value": 5152421,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 0.870251450842758,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 57.408,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 7.51,
+      "year": "2019"
+    }
+  },
+  {
+    "name": "Chad",
+    "url": "https://data.worldbank.org/country/chad?view=chart",
+    "code": "TCD",
+    "Population": {
+      "value": 19319064,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 4.12231962001739,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 55.069,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 13.2,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Channel Islands",
+    "url": "https://data.worldbank.org/country/channel-islands?view=chart",
+    "code": null
+  },
+  {
+    "name": "Chile",
+    "url": "https://data.worldbank.org/country/chile?view=chart",
+    "code": "CHL",
+    "Population": {
+      "value": 19658835,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 0.218780666901552,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 81.167,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 94.5,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "China",
+    "url": "https://data.worldbank.org/country/china?view=chart",
+    "code": "CHN",
+    "Population": {
+      "value": 1410710000,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 5.24955786387791,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 77.953,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 77.5,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Colombia",
+    "url": "https://data.worldbank.org/country/colombia?view=chart",
+    "code": "COL",
+    "Population": {
+      "value": 52321152,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 0.610409565791542,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 77.725,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 77.3,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Comoros",
+    "url": "https://data.worldbank.org/country/comoros?view=chart",
+    "code": "COM",
+    "Population": {
+      "value": 850387,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.99567457175966,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 66.777,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 35.7,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Congo, Dem. Rep.",
+    "url": "https://data.worldbank.org/country/congo-dem-rep?view=chart",
+    "code": null
+  },
+  {
+    "name": "Congo, Rep.",
+    "url": "https://data.worldbank.org/country/congo-rep?view=chart",
+    "code": null
+  },
+  {
+    "name": "Costa Rica",
+    "url": "https://data.worldbank.org/country/costa-rica?view=chart",
+    "code": "CRI",
+    "Population": {
+      "value": 5105525,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 5.11192183224598,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 80.799,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 85.4,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Cote d'Ivoire",
+    "url": "https://data.worldbank.org/country/cote-divoire?view=chart",
+    "code": null
+  },
+  {
+    "name": "Croatia",
+    "url": "https://data.worldbank.org/country/croatia?view=chart",
+    "code": "HRV",
+    "Population": {
+      "value": 3859686,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 3.30254488086325,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 78.4731707317073,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 83.2,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Cuba",
+    "url": "https://data.worldbank.org/country/cuba?view=chart",
+    "code": "CUB",
+    "Population": {
+      "value": 11019931,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -1.92899211214875,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 78.085,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 71.3,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Curacao",
+    "url": "https://data.worldbank.org/country/curacao?view=chart",
+    "code": null
+  },
+  {
+    "name": "Cyprus",
+    "url": "https://data.worldbank.org/country/cyprus?view=chart",
+    "code": "CYP",
+    "Population": {
+      "value": 1344976,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.61190090914745,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 81.648,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 91.2,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Czechia",
+    "url": "https://data.worldbank.org/country/czechia?view=chart",
+    "code": "CZE",
+    "Population": {
+      "value": 10864042,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -0.085330275927376,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 79.8780487804878,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 86,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Denmark",
+    "url": "https://data.worldbank.org/country/denmark?view=chart",
+    "code": "DNK",
+    "Population": {
+      "value": 5946952,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.49518433148894,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 81.8536585365854,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 99.8,
+      "year": "2024"
+    }
+  },
+  {
+    "name": "Djibouti",
+    "url": "https://data.worldbank.org/country/djibouti?view=chart",
+    "code": "DJI",
+    "Population": {
+      "value": 1152944,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 6.67664964361434,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 65.987,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 65,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Dominica",
+    "url": "https://data.worldbank.org/country/dominica?view=chart",
+    "code": "DMA",
+    "Population": {
+      "value": 66510,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 4.71223818531963,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 71.132,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 83.8,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Dominican Republic",
+    "url": "https://data.worldbank.org/country/dominican-republic?view=chart",
+    "code": "DOM",
+    "Population": {
+      "value": 11331265,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.36061568723294,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 73.72,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 84.6,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Ecuador",
+    "url": "https://data.worldbank.org/country/ecuador?view=chart",
+    "code": "ECU",
+    "Population": {
+      "value": 17980083,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.35521790742197,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 77.392,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 77.2,
+      "year": "2024"
+    }
+  },
+  {
+    "name": "Egypt, Arab Rep.",
+    "url": "https://data.worldbank.org/country/egypt-arab-rep?view=chart",
+    "code": null
+  },
+  {
+    "name": "El Salvador",
+    "url": "https://data.worldbank.org/country/el-salvador?view=chart",
+    "code": "SLV",
+    "Population": {
+      "value": 6309624,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 3.51097706608982,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 72.099,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 67.7,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Equatorial Guinea",
+    "url": "https://data.worldbank.org/country/equatorial-guinea?view=chart",
+    "code": "GNQ",
+    "Population": {
+      "value": 1847549,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -5.08930872071532,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 63.707,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 60.4,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Eritrea",
+    "url": "https://data.worldbank.org/country/eritrea?view=chart",
+    "code": "ERI",
+    "Population": {
+      "value": 3470390,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 8.67980010138049,
+      "year": "2011"
+    },
+    "Life Expectancy": {
+      "value": 68.624,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 20,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Estonia",
+    "url": "https://data.worldbank.org/country/estonia?view=chart",
+    "code": "EST",
+    "Population": {
+      "value": 1370286,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -3.02303584066192,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 78.490243902439,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 93.2,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Eswatini",
+    "url": "https://data.worldbank.org/country/eswatini?view=chart",
+    "code": "SWZ",
+    "Population": {
+      "value": 1230506,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 5.01490471257054,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 64.123,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 57.6,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Ethiopia",
+    "url": "https://data.worldbank.org/country/ethiopia?view=chart",
+    "code": "ETH",
+    "Population": {
+      "value": 128691692,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 6.49813464238613,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 67.315,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 16.7,
+      "year": "2021"
+    }
+  },
+  {
+    "name": "Faroe Islands",
+    "url": "https://data.worldbank.org/country/faroe-islands?view=chart",
+    "code": "FRO",
+    "Population": {
+      "value": 54482,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.4890581166362,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 83.1439024390244,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 97.6,
+      "year": "2017"
+    }
+  },
+  {
+    "name": "Fiji",
+    "url": "https://data.worldbank.org/country/fiji?view=chart",
+    "code": "FJI",
+    "Population": {
+      "value": 924145,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 7.52429088237292,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 67.316,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 79.3,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Finland",
+    "url": "https://data.worldbank.org/country/finland?view=chart",
+    "code": "FIN",
+    "Population": {
+      "value": 5583911,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -1.16396281522198,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 81.6853658536585,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 93.5,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "France",
+    "url": "https://data.worldbank.org/country/france?view=chart",
+    "code": "FRA",
+    "Population": {
+      "value": 68287487,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 0.936487502671483,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 82.9292682926829,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 86.8,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "French Polynesia",
+    "url": "https://data.worldbank.org/country/french-polynesia?view=chart",
+    "code": "PYF",
+    "Population": {
+      "value": 281118,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 4.46607459000271,
+      "year": "2022"
+    },
+    "Life Expectancy": {
+      "value": 84.07,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 72.7,
+      "year": "2017"
+    }
+  },
+  {
+    "name": "Gabon",
+    "url": "https://data.worldbank.org/country/gabon?view=chart",
+    "code": "GAB",
+    "Population": {
+      "value": 2484789,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.44588083119469,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 68.337,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 71.9,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Gambia, The",
+    "url": "https://data.worldbank.org/country/gambia-the?view=chart",
+    "code": "GMB",
+    "Population": {
+      "value": 2697845,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 4.79750895186164,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 65.86,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 45.9,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Georgia",
+    "url": "https://data.worldbank.org/country/georgia?view=chart",
+    "code": "GEO",
+    "Population": {
+      "value": 3715483,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 7.8322012152783,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 74.496,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 81.9,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Germany",
+    "url": "https://data.worldbank.org/country/germany?view=chart",
+    "code": "DEU",
+    "Population": {
+      "value": 83280000,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -0.266438410090913,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 80.5414634146342,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 93.5,
+      "year": "2024"
+    }
+  },
+  {
+    "name": "Ghana",
+    "url": "https://data.worldbank.org/country/ghana?view=chart",
+    "code": "GHA",
+    "Population": {
+      "value": 33787914,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.94478583082221,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 65.498,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 69.9,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Gibraltar",
+    "url": "https://data.worldbank.org/country/gibraltar?view=chart",
+    "code": "GIB",
+    "Population": {
+      "value": 38471,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 83.553,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 94.4,
+      "year": "2016"
+    }
+  },
+  {
+    "name": "Greece",
+    "url": "https://data.worldbank.org/country/greece?view=chart",
+    "code": "GRC",
+    "Population": {
+      "value": 10405588,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.3321238825698,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 81.5365853658537,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 85,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Greenland",
+    "url": "https://data.worldbank.org/country/greenland?view=chart",
+    "code": "GRL",
+    "Population": {
+      "value": 56865,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 1.29021048770599,
+      "year": "2021"
+    },
+    "Life Expectancy": {
+      "value": 71.549756097561,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 69.5,
+      "year": "2017"
+    }
+  },
+  {
+    "name": "Grenada",
+    "url": "https://data.worldbank.org/country/grenada?view=chart",
+    "code": "GRD",
+    "Population": {
+      "value": 117081,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 3.56612861773655,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 75.205,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 74.1,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Guam",
+    "url": "https://data.worldbank.org/country/guam?view=chart",
+    "code": "GUM",
+    "Population": {
+      "value": 166506,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 5.09986426216793,
+      "year": "2022"
+    },
+    "Life Expectancy": {
+      "value": 77.209,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 80.5,
+      "year": "2017"
+    }
+  },
+  {
+    "name": "Guatemala",
+    "url": "https://data.worldbank.org/country/guatemala?view=chart",
+    "code": "GTM",
+    "Population": {
+      "value": 18124838,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 3.52679214166824,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 72.602,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 56.1,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Guinea",
+    "url": "https://data.worldbank.org/country/guinea?view=chart",
+    "code": "GIN",
+    "Population": {
+      "value": 14405468,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 6.74493444630886,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 60.74,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 26.5,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Guinea-Bissau",
+    "url": "https://data.worldbank.org/country/guinea-bissau?view=chart",
+    "code": "GNB",
+    "Population": {
+      "value": 2153339,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 5.19926829741253,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 64.085,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 32.5,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Guyana",
+    "url": "https://data.worldbank.org/country/guyana?view=chart",
+    "code": "GUY",
+    "Population": {
+      "value": 826353,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 33.8026170921817,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 70.18,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 81.7,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Haiti",
+    "url": "https://data.worldbank.org/country/haiti?view=chart",
+    "code": "HTI",
+    "Population": {
+      "value": 11637398,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -1.86388420254838,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 64.936,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 39.3,
+      "year": "2019"
+    }
+  },
+  {
+    "name": "Honduras",
+    "url": "https://data.worldbank.org/country/honduras?view=chart",
+    "code": "HND",
+    "Population": {
+      "value": 10644851,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 3.58260362632656,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 72.884,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 58.3,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Hong Kong SAR, China",
+    "url": "https://data.worldbank.org/country/hong-kong-sar-china?view=chart",
+    "code": null
+  },
+  {
+    "name": "Hungary",
+    "url": "https://data.worldbank.org/country/hungary?view=chart",
+    "code": "HUN",
+    "Population": {
+      "value": 9592186,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -0.907685956140242,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 76.7707317073171,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 91.5,
+      "year": "2024"
+    }
+  },
+  {
+    "name": "Iceland",
+    "url": "https://data.worldbank.org/country/iceland?view=chart",
+    "code": "ISL",
+    "Population": {
+      "value": 393349,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 5.03717943960838,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 82.6073170731707,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 99.8,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "India",
+    "url": "https://data.worldbank.org/country/india?view=chart",
+    "code": "IND",
+    "Population": {
+      "value": 1438069596,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 8.1529363109041,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 72.003,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 55.9,
+      "year": "2022"
+    }
+  },
+  {
+    "name": "Indonesia",
+    "url": "https://data.worldbank.org/country/indonesia?view=chart",
+    "code": "IDN",
+    "Population": {
+      "value": 281190067,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 5.04810577067288,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 71.146,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 69.2,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Iran, Islamic Rep.",
+    "url": "https://data.worldbank.org/country/iran-islamic-rep?view=chart",
+    "code": null
+  },
+  {
+    "name": "Iraq",
+    "url": "https://data.worldbank.org/country/iraq?view=chart",
+    "code": "IRQ",
+    "Population": {
+      "value": 45074049,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -2.93555773971221,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 72.324,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 81.7,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Ireland",
+    "url": "https://data.worldbank.org/country/ireland?view=chart",
+    "code": "IRL",
+    "Population": {
+      "value": 5307600,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -5.53000736095537,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 82.8609756097561,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 96.5,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Isle of Man",
+    "url": "https://data.worldbank.org/country/isle-of-man?view=chart",
+    "code": "IMN",
+    "Population": {
+      "value": 84165,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 3.83783666558899,
+      "year": "2021"
+    },
+    "Life Expectancy": {
+      "value": 80.999,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Israel",
+    "url": "https://data.worldbank.org/country/israel?view=chart",
+    "code": "ISR",
+    "Population": {
+      "value": 9756600,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.42300691049012,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 83.1951219512195,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 87,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Italy",
+    "url": "https://data.worldbank.org/country/italy?view=chart",
+    "code": "ITA",
+    "Population": {
+      "value": 58993475,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 0.69763299419678,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 83.7,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 87,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Jamaica",
+    "url": "https://data.worldbank.org/country/jamaica?view=chart",
+    "code": "JAM",
+    "Population": {
+      "value": 2839786,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.20006147154612,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 71.479,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 83.4,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Japan",
+    "url": "https://data.worldbank.org/country/japan?view=chart",
+    "code": "JPN",
+    "Population": {
+      "value": 124516650,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 1.67901952310368,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 84.0412195121951,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 87,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Jordan",
+    "url": "https://data.worldbank.org/country/jordan?view=chart",
+    "code": "JOR",
+    "Population": {
+      "value": 11439213,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.67827153754409,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 77.814,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 92.5,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Kazakhstan",
+    "url": "https://data.worldbank.org/country/kazakhstan?view=chart",
+    "code": "KAZ",
+    "Population": {
+      "value": 20330104,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 5.09999999973641,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 74.402,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 92.9,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Kenya",
+    "url": "https://data.worldbank.org/country/kenya?view=chart",
+    "code": "KEN",
+    "Population": {
+      "value": 55339003,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 5.55587301319866,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 63.646,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 35,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Kiribati",
+    "url": "https://data.worldbank.org/country/kiribati?view=chart",
+    "code": "KIR",
+    "Population": {
+      "value": 132530,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 4.12459054312031,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 66.473,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 88,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Korea, Dem. People's Rep.",
+    "url": "https://data.worldbank.org/country/korea-dem-peoples-rep?view=chart",
+    "code": null
+  },
+  {
+    "name": "Korea, Rep.",
+    "url": "https://data.worldbank.org/country/korea-rep?view=chart",
+    "code": null
+  },
+  {
+    "name": "Kosovo",
+    "url": "https://data.worldbank.org/country/kosovo?view=chart",
+    "code": null
+  },
+  {
+    "name": "Kuwait",
+    "url": "https://data.worldbank.org/country/kuwait?view=chart",
+    "code": "KWT",
+    "Population": {
+      "value": 4853420,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -3.64042590261035,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 83.1878048780488,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 99.7,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Kyrgyz Republic",
+    "url": "https://data.worldbank.org/country/kyrgyz-republic?view=chart",
+    "code": "KGZ",
+    "Population": {
+      "value": 7099750,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 6.15139183716032,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 72.2487804878049,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 88.5,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Lao PDR",
+    "url": "https://data.worldbank.org/country/lao-pdr?view=chart",
+    "code": null
+  },
+  {
+    "name": "Latvia",
+    "url": "https://data.worldbank.org/country/latvia?view=chart",
+    "code": "LVA",
+    "Population": {
+      "value": 1877445,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 1.70679524969924,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 75.6780487804878,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 92.2,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Lebanon",
+    "url": "https://data.worldbank.org/country/lebanon?view=chart",
+    "code": "LBN",
+    "Population": {
+      "value": 5773493,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -0.621678970663112,
+      "year": "2022"
+    },
+    "Life Expectancy": {
+      "value": 77.817,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 83.5,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Lesotho",
+    "url": "https://data.worldbank.org/country/lesotho?view=chart",
+    "code": "LSO",
+    "Population": {
+      "value": 2311472,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 1.82662525852363,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 57.375,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 48,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Liberia",
+    "url": "https://data.worldbank.org/country/liberia?view=chart",
+    "code": "LBR",
+    "Population": {
+      "value": 5493031,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 4.68375688761311,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 62.163,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 23.5,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Libya",
+    "url": "https://data.worldbank.org/country/libya?view=chart",
+    "code": "LBY",
+    "Population": {
+      "value": 7305659,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 10.1558181770326,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 69.339,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 88.5,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Liechtenstein",
+    "url": "https://data.worldbank.org/country/liechtenstein?view=chart",
+    "code": "LIE",
+    "Population": {
+      "value": 39850,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -1.15748291975636,
+      "year": "2009"
+    },
+    "Life Expectancy": {
+      "value": 84.8414634146342,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 97.3,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Lithuania",
+    "url": "https://data.worldbank.org/country/lithuania?view=chart",
+    "code": "LTU",
+    "Population": {
+      "value": 2871585,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 0.34226255222913,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 76.9878048780488,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 88.5,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Luxembourg",
+    "url": "https://data.worldbank.org/country/luxembourg?view=chart",
+    "code": "LUX",
+    "Population": {
+      "value": 666430,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -1.09572361576994,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 83.3585365853659,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 98.8,
+      "year": "2024"
+    }
+  },
+  {
+    "name": "Macao SAR, China",
+    "url": "https://data.worldbank.org/country/macao-sar-china?view=chart",
+    "code": null
+  },
+  {
+    "name": "Madagascar",
+    "url": "https://data.worldbank.org/country/madagascar?view=chart",
+    "code": "MDG",
+    "Population": {
+      "value": 31195932,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 3.80000000009488,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 63.632,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 20.4,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Malawi",
+    "url": "https://data.worldbank.org/country/malawi?view=chart",
+    "code": "MWI",
+    "Population": {
+      "value": 21104482,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 1.89245798756383,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 67.353,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 18,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Malaysia",
+    "url": "https://data.worldbank.org/country/malaysia?view=chart",
+    "code": "MYS",
+    "Population": {
+      "value": 35126298,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 3.55548715410509,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 76.657,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 97.7,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Maldives",
+    "url": "https://data.worldbank.org/country/maldives?view=chart",
+    "code": "MDV",
+    "Population": {
+      "value": 525994,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 4.72639189000989,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 81.041,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 84.7,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Mali",
+    "url": "https://data.worldbank.org/country/mali?view=chart",
+    "code": "MLI",
+    "Population": {
+      "value": 23769127,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 4.65677599093294,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 60.439,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 35.1,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Malta",
+    "url": "https://data.worldbank.org/country/malta?view=chart",
+    "code": "MLT",
+    "Population": {
+      "value": 552747,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 7.49851245937869,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 83.5073170731707,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 92.1,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Marshall Islands",
+    "url": "https://data.worldbank.org/country/marshall-islands?view=chart",
+    "code": "MHL",
+    "Population": {
+      "value": 38827,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -3.93487109905021,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 66.945,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 65.7,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Mauritania",
+    "url": "https://data.worldbank.org/country/mauritania?view=chart",
+    "code": "MRT",
+    "Population": {
+      "value": 5022441,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 6.50718719858594,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 68.484,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 37.4,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Mauritius",
+    "url": "https://data.worldbank.org/country/mauritius?view=chart",
+    "code": "MUS",
+    "Population": {
+      "value": 1261041,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 6.95828740328457,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 73.4121951219512,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 79.5,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Mexico",
+    "url": "https://data.worldbank.org/country/mexico?view=chart",
+    "code": "MEX",
+    "Population": {
+      "value": 129739759,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 3.19998116598492,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 75.069,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 81.2,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Micronesia, Fed. Sts.",
+    "url": "https://data.worldbank.org/country/micronesia-fed-sts?view=chart",
+    "code": null
+  },
+  {
+    "name": "Moldova",
+    "url": "https://data.worldbank.org/country/moldova?view=chart",
+    "code": "MDA",
+    "Population": {
+      "value": 2457783,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 0.78324270969388,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 71.198,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 80.2,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Monaco",
+    "url": "https://data.worldbank.org/country/monaco?view=chart",
+    "code": "MCO",
+    "Population": {
+      "value": 38956,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 5.04338259195359,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 86.372,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 99.1,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Mongolia",
+    "url": "https://data.worldbank.org/country/mongolia?view=chart",
+    "code": "MNG",
+    "Population": {
+      "value": 3481145,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 7.4221127615025,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 72.1224390243902,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 83,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Montenegro",
+    "url": "https://data.worldbank.org/country/montenegro?view=chart",
+    "code": "MNE",
+    "Population": {
+      "value": 616177,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 6.33769754243548,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 77.5878048780488,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 89.8,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Morocco",
+    "url": "https://data.worldbank.org/country/morocco?view=chart",
+    "code": "MAR",
+    "Population": {
+      "value": 37712505,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 3.40334130078834,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 75.313,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 91,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Mozambique",
+    "url": "https://data.worldbank.org/country/mozambique?view=chart",
+    "code": "MOZ",
+    "Population": {
+      "value": 33635160,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 5.43685912188634,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 63.611,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 19.8,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Myanmar",
+    "url": "https://data.worldbank.org/country/myanmar?view=chart",
+    "code": "MMR",
+    "Population": {
+      "value": 54133798,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 0.958446625192025,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 66.889,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 58.5,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Namibia",
+    "url": "https://data.worldbank.org/country/namibia?view=chart",
+    "code": "NAM",
+    "Population": {
+      "value": 2963095,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 4.159985754998,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 67.385,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 64.4,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Nauru",
+    "url": "https://data.worldbank.org/country/nauru?view=chart",
+    "code": "NRU",
+    "Population": {
+      "value": 11875,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 0.590699675931191,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 62.109,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 81.7,
+      "year": "2020"
+    }
+  },
+  {
+    "name": "Nepal",
+    "url": "https://data.worldbank.org/country/nepal?view=chart",
+    "code": "NPL",
+    "Population": {
+      "value": 29694614,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 1.95254463264347,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 70.354,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 55.8,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Netherlands",
+    "url": "https://data.worldbank.org/country/netherlands?view=chart",
+    "code": "NLD",
+    "Population": {
+      "value": 17877117,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 0.0745607216494903,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 81.9146341463415,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 97,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "New Caledonia",
+    "url": "https://data.worldbank.org/country/new-caledonia?view=chart",
+    "code": "NCL",
+    "Population": {
+      "value": 289870,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 3.49999999631376,
+      "year": "2022"
+    },
+    "Life Expectancy": {
+      "value": 78.766,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 82,
+      "year": "2017"
+    }
+  },
+  {
+    "name": "New Zealand",
+    "url": "https://data.worldbank.org/country/new-zealand?view=chart",
+    "code": "NZL",
+    "Population": {
+      "value": 5223100,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 0.733302171674978,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 83.0048780487805,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 96.2,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Nicaragua",
+    "url": "https://data.worldbank.org/country/nicaragua?view=chart",
+    "code": "NIC",
+    "Population": {
+      "value": 6823613,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 4.56922317096145,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 74.947,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 58.2,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Niger",
+    "url": "https://data.worldbank.org/country/niger?view=chart",
+    "code": "NER",
+    "Population": {
+      "value": 26159867,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.49999999999999,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 61.183,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 23.2,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Nigeria",
+    "url": "https://data.worldbank.org/country/nigeria?view=chart",
+    "code": "NGA",
+    "Population": {
+      "value": 227882945,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.86021499108364,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 54.462,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 39.2,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "North Macedonia",
+    "url": "https://data.worldbank.org/country/north-macedonia?view=chart",
+    "code": "MKD",
+    "Population": {
+      "value": 1827816,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.07274977880975,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 75.3160975609756,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 87.2,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "url": "https://data.worldbank.org/country/northern-mariana-islands?view=chart",
+    "code": "MNP",
+    "Population": {
+      "value": 45143,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 16.6427546628408,
+      "year": "2022"
+    },
+    "Life Expectancy": {
+      "value": 78.808,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 0,
+      "year": "1990"
+    }
+  },
+  {
+    "name": "Norway",
+    "url": "https://data.worldbank.org/country/norway?view=chart",
+    "code": "NOR",
+    "Population": {
+      "value": 5519594,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 0.479647246011822,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 83.1121951219512,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 99,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Oman",
+    "url": "https://data.worldbank.org/country/oman?view=chart",
+    "code": "OMN",
+    "Population": {
+      "value": 5049269,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 1.3104401130721,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 80.031,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 95.3,
+      "year": "2024"
+    }
+  },
+  {
+    "name": "Pakistan",
+    "url": "https://data.worldbank.org/country/pakistan?view=chart",
+    "code": "PAK",
+    "Population": {
+      "value": 247504495,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -0.0396925228069165,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 67.649,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 27.4,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Palau",
+    "url": "https://data.worldbank.org/country/palau?view=chart",
+    "code": "PLW",
+    "Population": {
+      "value": 17727,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 1.87706979817723,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 69.269,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 27,
+      "year": "2004"
+    }
+  },
+  {
+    "name": "Panama",
+    "url": "https://data.worldbank.org/country/panama?view=chart",
+    "code": "PAN",
+    "Population": {
+      "value": 4458759,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 7.39930155626219,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 79.594,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 78,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Papua New Guinea",
+    "url": "https://data.worldbank.org/country/papua-new-guinea?view=chart",
+    "code": "PNG",
+    "Population": {
+      "value": 10389635,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 3.03570475499642,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 66.134,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 24.1,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Paraguay",
+    "url": "https://data.worldbank.org/country/paraguay?view=chart",
+    "code": "PRY",
+    "Population": {
+      "value": 6844146,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 4.71412407945468,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 73.844,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 78.1,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Peru",
+    "url": "https://data.worldbank.org/country/peru?view=chart",
+    "code": "PER",
+    "Population": {
+      "value": 33845617,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -0.55018230632048,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 77.74,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 79.5,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Philippines",
+    "url": "https://data.worldbank.org/country/philippines?view=chart",
+    "code": "PHL",
+    "Population": {
+      "value": 114891199,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 5.54585117087767,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 69.833,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 83.8,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Poland",
+    "url": "https://data.worldbank.org/country/poland?view=chart",
+    "code": "POL",
+    "Population": {
+      "value": 36687353,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 0.138832754787188,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 78.5073170731707,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 86.4,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Portugal",
+    "url": "https://data.worldbank.org/country/portugal?view=chart",
+    "code": "PRT",
+    "Population": {
+      "value": 10578174,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.52628110806764,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 82.2804878048781,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 85.8,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Puerto Rico",
+    "url": "https://data.worldbank.org/country/puerto-rico?view=chart",
+    "code": "PRI",
+    "Population": {
+      "value": 3205691,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 0.563519426800866,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 81.69,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 87.3,
+      "year": "2022"
+    }
+  },
+  {
+    "name": "Qatar",
+    "url": "https://data.worldbank.org/country/qatar?view=chart",
+    "code": "QAT",
+    "Population": {
+      "value": 2656032,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 1.18715991184813,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 82.368,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 99.7,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Romania",
+    "url": "https://data.worldbank.org/country/romania?view=chart",
+    "code": "ROU",
+    "Population": {
+      "value": 19059479,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.40427177912809,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 76.6073170731707,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 89.2,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Russian Federation",
+    "url": "https://data.worldbank.org/country/russian-federation?view=chart",
+    "code": "RUS",
+    "Population": {
+      "value": 143826130,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 3.60000000000001,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 73.2546341463415,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 92.2,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Rwanda",
+    "url": "https://data.worldbank.org/country/rwanda?view=chart",
+    "code": "RWA",
+    "Population": {
+      "value": 13954471,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 8.24128769450616,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 67.785,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 34.2,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Samoa",
+    "url": "https://data.worldbank.org/country/samoa?view=chart",
+    "code": "WSM",
+    "Population": {
+      "value": 216663,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 8.58409121817338,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 71.698,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 58.1,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "San Marino",
+    "url": "https://data.worldbank.org/country/san-marino?view=chart",
+    "code": "SMR",
+    "Population": {
+      "value": 33860,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 7.89844145767604,
+      "year": "2022"
+    },
+    "Life Expectancy": {
+      "value": 85.706,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 87,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "url": "https://data.worldbank.org/country/sao-tome-and-principe?view=chart",
+    "code": "STP",
+    "Population": {
+      "value": 230871,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 0.372252775001456,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 69.718,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 61.5,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Saudi Arabia",
+    "url": "https://data.worldbank.org/country/saudi-arabia?view=chart",
+    "code": "SAU",
+    "Population": {
+      "value": 33264292,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -0.754914810584665,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 78.732,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 100,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Senegal",
+    "url": "https://data.worldbank.org/country/senegal?view=chart",
+    "code": "SEN",
+    "Population": {
+      "value": 18077573,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 4.58406140454957,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 68.683,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 60.6,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Serbia",
+    "url": "https://data.worldbank.org/country/serbia?view=chart",
+    "code": "SRB",
+    "Population": {
+      "value": 6623183,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 3.84747112784942,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 76.2209756097561,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 85.4,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Seychelles",
+    "url": "https://data.worldbank.org/country/seychelles?view=chart",
+    "code": "SYC",
+    "Population": {
+      "value": 119773,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 3.16171435490999,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 74.9585365853659,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 87.4,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Sierra Leone",
+    "url": "https://data.worldbank.org/country/sierra-leone?view=chart",
+    "code": "SLE",
+    "Population": {
+      "value": 8460512,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 5.7100218981806,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 61.786,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 20.6,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Singapore",
+    "url": "https://data.worldbank.org/country/singapore?view=chart",
+    "code": "SGP",
+    "Population": {
+      "value": 5917648,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 1.07503175095101,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 82.8951219512195,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 94.3,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Sint Maarten (Dutch part)",
+    "url": "https://data.worldbank.org/country/sint-maarten-dutch-part?view=chart",
+    "code": "SXM",
+    "Population": {
+      "value": 42749,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 3.8,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 76.371,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Slovak Republic",
+    "url": "https://data.worldbank.org/country/slovak-republic?view=chart",
+    "code": "SVK",
+    "Population": {
+      "value": 5426740,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 1.37833727209444,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 78.0170731707317,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 89.8,
+      "year": "2024"
+    }
+  },
+  {
+    "name": "Slovenia",
+    "url": "https://data.worldbank.org/country/slovenia?view=chart",
+    "code": "SVN",
+    "Population": {
+      "value": 2120461,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.11259184318999,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 81.9780487804878,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 90.4,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Solomon Islands",
+    "url": "https://data.worldbank.org/country/solomon-islands?view=chart",
+    "code": "SLB",
+    "Population": {
+      "value": 800005,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 3.07976981501386,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 70.528,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 42.5,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Somalia",
+    "url": "https://data.worldbank.org/country/somalia?view=chart",
+    "code": "SOM",
+    "Population": {
+      "value": 18358615,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 4.21638432609835,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 58.816,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 27.6,
+      "year": "2022"
+    }
+  },
+  {
+    "name": "South Africa",
+    "url": "https://data.worldbank.org/country/south-africa?view=chart",
+    "code": "ZAF",
+    "Population": {
+      "value": 63212384,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 0.698485194788034,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 66.139,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 75.7,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "South Sudan",
+    "url": "https://data.worldbank.org/country/south-sudan?view=chart",
+    "code": "SSD",
+    "Population": {
+      "value": 11483374,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -10.7933646271143,
+      "year": "2015"
+    },
+    "Life Expectancy": {
+      "value": 57.617,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 9.27,
+      "year": "2020"
+    }
+  },
+  {
+    "name": "Spain",
+    "url": "https://data.worldbank.org/country/spain?view=chart",
+    "code": "ESP",
+    "Population": {
+      "value": 48347910,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.67566349258229,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 83.8829268292683,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 95.4,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Sri Lanka",
+    "url": "https://data.worldbank.org/country/sri-lanka?view=chart",
+    "code": "LKA",
+    "Population": {
+      "value": 22037000,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -2.29801056186895,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 77.483,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 51.2,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "St. Kitts and Nevis",
+    "url": "https://data.worldbank.org/country/st-kitts-and-nevis?view=chart",
+    "code": null
+  },
+  {
+    "name": "St. Lucia",
+    "url": "https://data.worldbank.org/country/st-lucia?view=chart",
+    "code": null
+  },
+  {
+    "name": "St. Martin (French part)",
+    "url": "https://data.worldbank.org/country/st-martin-french-part?view=chart",
+    "code": null
+  },
+  {
+    "name": "St. Vincent and the Grenadines",
+    "url": "https://data.worldbank.org/country/st-vincent-and-the-grenadines?view=chart",
+    "code": null
+  },
+  {
+    "name": "Sudan",
+    "url": "https://data.worldbank.org/country/sudan?view=chart",
+    "code": "SDN",
+    "Population": {
+      "value": 50042791,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -20.1115759693272,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 66.331,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 26.4,
+      "year": "2020"
+    }
+  },
+  {
+    "name": "Suriname",
+    "url": "https://data.worldbank.org/country/suriname?view=chart",
+    "code": "SUR",
+    "Population": {
+      "value": 628886,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.53956675446825,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 73.631,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 78.4,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Sweden",
+    "url": "https://data.worldbank.org/country/sweden?view=chart",
+    "code": "SWE",
+    "Population": {
+      "value": 10536632,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -0.310670184725893,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 83.309756097561,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 95.7,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Switzerland",
+    "url": "https://data.worldbank.org/country/switzerland?view=chart",
+    "code": "CHE",
+    "Population": {
+      "value": 8888093,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 0.716066868695833,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 84.0560975609756,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 97.3,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Syrian Arab Republic",
+    "url": "https://data.worldbank.org/country/syrian-arab-republic?view=chart",
+    "code": "SYR",
+    "Population": {
+      "value": 23594623,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 0.732781301861365,
+      "year": "2022"
+    },
+    "Life Expectancy": {
+      "value": 72.12,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 34.7,
+      "year": "2019"
+    }
+  },
+  {
+    "name": "Tajikistan",
+    "url": "https://data.worldbank.org/country/tajikistan?view=chart",
+    "code": "TJK",
+    "Population": {
+      "value": 10389799,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 8.29999921651935,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 71.79,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 56.8,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Tanzania",
+    "url": "https://data.worldbank.org/country/tanzania?view=chart",
+    "code": "TZA",
+    "Population": {
+      "value": 66617606,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 5.06952353203394,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 66.995,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 29.1,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Thailand",
+    "url": "https://data.worldbank.org/country/thailand?view=chart",
+    "code": "THA",
+    "Population": {
+      "value": 71702435,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 1.88725725050934,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 76.412,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 89.5,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Timor-Leste",
+    "url": "https://data.worldbank.org/country/timor-leste?view=chart",
+    "code": "TLS",
+    "Population": {
+      "value": 1384286,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -18.1178133769718,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 67.689,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 34,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Togo",
+    "url": "https://data.worldbank.org/country/togo?view=chart",
+    "code": "TGO",
+    "Population": {
+      "value": 9304337,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 6.40792215636242,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 62.739,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 37,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Tonga",
+    "url": "https://data.worldbank.org/country/tonga?view=chart",
+    "code": "TON",
+    "Population": {
+      "value": 104597,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": -2.30986002720401,
+      "year": "2022"
+    },
+    "Life Expectancy": {
+      "value": 72.895,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 58.5,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "url": "https://data.worldbank.org/country/trinidad-and-tobago?view=chart",
+    "code": "TTO",
+    "Population": {
+      "value": 1367510,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 1.34767518168188,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 73.49,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 84.7,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Tunisia",
+    "url": "https://data.worldbank.org/country/tunisia?view=chart",
+    "code": "TUN",
+    "Population": {
+      "value": 12200431,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 0.0391565674939329,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 76.508,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 72.4,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Turkiye",
+    "url": "https://data.worldbank.org/country/turkiye?view=chart",
+    "code": null
+  },
+  {
+    "name": "Turkmenistan",
+    "url": "https://data.worldbank.org/country/turkmenistan?view=chart",
+    "code": "TKM",
+    "Population": {
+      "value": 7364438,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 6.30015758549871,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 70.073,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 21.3,
+      "year": "2017"
+    }
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "url": "https://data.worldbank.org/country/turks-and-caicos-islands?view=chart",
+    "code": "TCA",
+    "Population": {
+      "value": 46198,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 1.19999674543641,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 78.008,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 0,
+      "year": "1990"
+    }
+  },
+  {
+    "name": "Tuvalu",
+    "url": "https://data.worldbank.org/country/tuvalu?view=chart",
+    "code": "TUV",
+    "Population": {
+      "value": 9816,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 3.85280919517032,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 67.105,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 74.3,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Uganda",
+    "url": "https://data.worldbank.org/country/uganda?view=chart",
+    "code": "UGA",
+    "Population": {
+      "value": 48656601,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 5.33697295511469,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 68.252,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 15.3,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Ukraine",
+    "url": "https://data.worldbank.org/country/ukraine?view=chart",
+    "code": "UKR",
+    "Population": {
+      "value": 37732836,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 5.32433537426355,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 73.422,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 82.4,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "United Arab Emirates",
+    "url": "https://data.worldbank.org/country/united-arab-emirates?view=chart",
+    "code": "ARE",
+    "Population": {
+      "value": 10483751,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 3.61870653547174,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 82.909,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 100,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "United Kingdom",
+    "url": "https://data.worldbank.org/country/united-kingdom?view=chart",
+    "code": "GBR",
+    "Population": {
+      "value": 68350000,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 0.339966158003463,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 81.2380975609756,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 96.3,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "United States",
+    "url": "https://data.worldbank.org/country/united-states?view=chart",
+    "code": "USA",
+    "Population": {
+      "value": 334914895,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.88755600906016,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 78.3853658536585,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 93.1,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Uruguay",
+    "url": "https://data.worldbank.org/country/uruguay?view=chart",
+    "code": "URY",
+    "Population": {
+      "value": 3388081,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 0.3674751756175,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 78.138,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 89.9,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Uzbekistan",
+    "url": "https://data.worldbank.org/country/uzbekistan?view=chart",
+    "code": "UZB",
+    "Population": {
+      "value": 35652307,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 6.29141635081155,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 72.388,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 89,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Vanuatu",
+    "url": "https://data.worldbank.org/country/vanuatu?view=chart",
+    "code": "VUT",
+    "Population": {
+      "value": 320409,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 2.21294177094788,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 71.477,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 45.7,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Venezuela, RB",
+    "url": "https://data.worldbank.org/country/venezuela-rb?view=chart",
+    "code": null
+  },
+  {
+    "name": "Viet Nam",
+    "url": "https://data.worldbank.org/country/viet-nam?view=chart",
+    "code": "VNM",
+    "Population": {
+      "value": 100352192,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 5.0464307361882,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 74.588,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 78.1,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Virgin Islands (U.S.)",
+    "url": "https://data.worldbank.org/country/virgin-islands-us?view=chart",
+    "code": null
+  },
+  {
+    "name": "West Bank and Gaza",
+    "url": "https://data.worldbank.org/country/west-bank-and-gaza?view=chart",
+    "code": null
+  },
+  {
+    "name": "Yemen, Rep.",
+    "url": "https://data.worldbank.org/country/yemen-rep?view=chart",
+    "code": null
+  },
+  {
+    "name": "Zambia",
+    "url": "https://data.worldbank.org/country/zambia?view=chart",
+    "code": "ZMB",
+    "Population": {
+      "value": 20723965,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 5.36794285493059,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 66.349,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 33,
+      "year": "2023"
+    }
+  },
+  {
+    "name": "Zimbabwe",
+    "url": "https://data.worldbank.org/country/zimbabwe?view=chart",
+    "code": "ZWE",
+    "Population": {
+      "value": 16340822,
+      "year": "2023"
+    },
+    "GDP Growth (%)": {
+      "value": 5.33673049519527,
+      "year": "2023"
+    },
+    "Life Expectancy": {
+      "value": 62.775,
+      "year": "2023"
+    },
+    "Internet Usage (%)": {
+      "value": 38.4,
+      "year": "2023"
+    }
+  }
+]
