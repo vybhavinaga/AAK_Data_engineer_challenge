@@ -1,4 +1,4 @@
 ## Project Structure
 
-- [Part 1: Overview & Documentation](https://github.com/vybhavinaga/AAK_Data_engineer_challenge/blob/main/part1_public%20dataset/REAME.md)
+- [Part 1: Overview & Documentation](./part1_public%20dataset/REAME.md)
 - [Part 2: Challenge Details](./second_part_challenge/challenge.md)
